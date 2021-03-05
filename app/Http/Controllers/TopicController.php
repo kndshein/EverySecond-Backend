@@ -14,7 +14,7 @@ class TopicController extends Controller
 
         $results = $topics->map(function ($topic, $key) {
             return [$topic,$topic->sources()->get()->all()];
-            // return [$topic,$topic->sources];
+            // return $topic->sources;
         });
 
         return response($results, 200)

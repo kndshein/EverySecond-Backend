@@ -92,3 +92,10 @@ A website to spread awareness and provide resources to get involved for various 
 -   [Park Lane](https://fonts.adobe.com/fonts/park-lane)
 -   [Kepler](https://fonts.adobe.com/fonts/kepler)
 -   [Utopia](https://fonts.adobe.com/fonts/utopia)
+
+### Helpful Links
+
+-   https://www.youtube.com/watch?v=QD4GcZJObXg
+-   https://www.youtube.com/watch?v=T8EYosX4NOo
+-   https://github.com/maciekgrzybek/react-section-navigation
+-   https://codesandbox.io/s/framer-motion-issue-forked-6no3o?file=/src/App.js:1123-1173
